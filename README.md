@@ -1,1 +1,3 @@
-todo-github
+# to_do
+
+A simple to-do app.
